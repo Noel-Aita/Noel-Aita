@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Noel-Aita a Junior Software Developer
+- 👋 Noel-Aita is my name, I am a Junior Software Developer
 - 👀 I’m interested in how code works
 - 🌱 I’m currently learning Software Engineering #ALXSE
 - 💞️ I’m looking to collaborate on any coding projects
